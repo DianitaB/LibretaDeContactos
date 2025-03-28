@@ -10,6 +10,12 @@ import ec.edu.ups.poo.clases.Persona;
 // EVITARLO
 public class Principal {
     public static void main(String[] args) {
+        Persona personita = new Persona();
+        personita.setCedula("0107271108");
+        personita.setNombre("Diana");
+        personita.setApellido("Borja");
+        personita.setDireccion("Parque Industrial");
+
         Familiar familiar = new Familiar();
         Scanner sc1 = new Scanner(System.in);
         System.out.println("Cuantas personas quieres ingresar : ");
