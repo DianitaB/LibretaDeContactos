@@ -1,4 +1,7 @@
 package ec.edu.ups.poo.clases;
+
+import org.w3c.dom.ls.LSOutput;
+
 // Paquetes : Ayudan a organizar de una mejor manera
 public class Persona {
 

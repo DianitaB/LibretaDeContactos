@@ -16,6 +16,8 @@ public class Principal {
         personita.setApellido("Borja");
         personita.setDireccion("Parque Industrial");
 
+        System.out.println("Cree en ti todo es posible");
+
         Familiar familiar = new Familiar();
         Scanner sc1 = new Scanner(System.in);
         System.out.println("Cuantas personas quieres ingresar : ");
