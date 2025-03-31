@@ -18,7 +18,7 @@ public class Familiar extends Persona {
         this.tipoDeSangre = tipoDeSangre;
         this.fechaNacimiento = fechaNacimiento;
         System.out.println("Hazlo con miedo, pero hazlo");
-        System.out.println("Si pasamos el ciclo");
+        System.out.println("Si pasamos el ciclo tranquisss");
     }
 
     public String getParentesco() {
