@@ -1,4 +1,5 @@
 package ec.edu.ups.poo.clases;
+import java.sql.SQLOutput;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 
@@ -17,6 +18,7 @@ public class Familiar extends Persona {
         this.tipoDeSangre = tipoDeSangre;
         this.fechaNacimiento = fechaNacimiento;
         System.out.println("Hazlo con miedo, pero hazlo");
+        System.out.println("Si pasamos el ciclo tranquisss");
     }
 
     public String getParentesco() {
